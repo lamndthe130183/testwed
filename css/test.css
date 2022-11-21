@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+hr{
+    width: 5%;
+    border-style: dotted none none;
+    border-color: red;
+    border-width: 5px;
+}
+.text-color-red{
+    color: red;
+}
+.size-text{
+    font-size: 50px;
+}
+#size-text-book{
+    font-size: 30px;
+}
